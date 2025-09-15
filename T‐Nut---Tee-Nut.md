@@ -1,8 +1,8 @@
 ---
 title: T-Nut/Tee Nut
 layout: default
-nav_order: 2
-parent: Home
+nav_order: 3
+parent: Commercial Components
 ---
 
 # T-Nut/Tee Nut
