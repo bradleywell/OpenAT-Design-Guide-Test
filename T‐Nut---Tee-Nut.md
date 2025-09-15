@@ -24,6 +24,8 @@ An example of the part dimensioned below is provided as an STL, a STEP, and a F3
 * [F3D](https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut/T_Nut_Mounting_Positive.f3d)
 * [CAD_Files](https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut)
 
+<a href="/CAD_Files//T_Nut/T_Nut_Mounting_Positive.stl" download>
+
 ## Dimensions
 
 The following are the list of dimensions used in the T-Nut mounting feature.
