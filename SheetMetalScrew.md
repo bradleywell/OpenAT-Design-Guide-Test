@@ -1,8 +1,8 @@
 ---
 title: No.4 Sheet Metal Screw
 layout: default
-nav_order: 2
-parent: Home
+nav_order: 3
+parent: Commercial Components
 ---
 
 # #4 Sheet Metal Screw
