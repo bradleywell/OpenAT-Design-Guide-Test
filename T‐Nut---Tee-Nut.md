@@ -27,6 +27,7 @@ An example of the part dimensioned below is provided as an STL, a STEP, and a F3
 * <a href="/CAD_Files/T_Nut/T_Nut_Mounting_Positive.stl" download>STL Link 2 Folder</a>
 * <a href="/CAD_Files/T_Nut_Mounting_Positive.stl" download>STL Link 1 Folder</a>
 * <a href="/T_Nut_Mounting_Positive.stl" download>STL Link No Folder</a>
+* <a href="/test.stl" download>Test</a>
 
 ## Dimensions
 
