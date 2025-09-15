@@ -7,4 +7,4 @@ url: https://bradleywell.github.io/Design-Guide-Test
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-_includes/footer_custom.html
+#_includes/footer_custom.html
