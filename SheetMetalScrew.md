@@ -8,6 +8,7 @@ parent: Commercial Components
 # #4 Sheet Metal Screw
 
 Used to hold 3D printed parts together, usually the two halves of the enclosure or other structural connections. The screw most used in MMC devices is a 3/8” #4 Sheet Metal Screw
+[Test Link to Other page in the repo](Cable-Ties.md)
 
 <img width="436" height="303" style="display: block; margin: 0 auto" alt="image" src="https://github.com/user-attachments/assets/9854d526-f88e-4fbe-ae1e-c3b95520f021" />
 
@@ -22,7 +23,6 @@ For this part, there are several primary dimensions, as well as some design cons
 * **Screwdriver Clearance:** For deeper holes, the screwdriver itself must also be able to fit through the counterbore to tighten the screw at the bottom of the hole. This diameter is the minimum diameter to allow a common household screwdriver to be used. If using this diameter, it replaces the counterbore diameter. 
 
 <img width="282" height="351" style="display: block; margin: 0 auto" alt="image" src="https://github.com/user-attachments/assets/bb176449-d061-4e35-8d49-5418c4012f12" />
-
 
 
 | **#4 Sheet Metal Screw Dimensions** |        |
