@@ -3,6 +3,14 @@ title: T-Nut/Tee Nut
 layout: default
 nav_order: 3
 parent: Commercial Components
+feature_row3:
+    title: "Download test link"
+    excerpt: 'test test test, test test test'
+    url: "https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut/T_Nut_Mounting_Positive.stl"
+    target: "_blank"
+    rel: "noopener noreferrer"
+    btn_label: "Download STL"
+    btn_class: "btn--primary"
 ---
 
 # T-Nut/Tee Nut
@@ -19,10 +27,6 @@ This is one of the most complicated parts to add to a model, with a long list of
 ## Example Files
 
 An example of the part dimensioned below is provided as an STL, a STEP, and a F3D file. Currently only the positive is provided, i.e. the part that was dimensioned, but there are plans to add a negative to allow the component to be imported into a design then added as a Boolean subtraction or addition, depending on if you are using the positive or negative.
-* [STL](https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut/T_Nut_Mounting_Positive.stl)
-* [STEP](https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut/T_Nut_Mounting_Positive.step)
-* [F3D](https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut/T_Nut_Mounting_Positive.f3d)
-* [CAD_Files](https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut)
 
 * <a href="/CAD_Files/T_Nut/T_Nut_Mounting_Positive.stl" download>STL Link 2 Folder</a>
 * <a href="/CAD_Files/T_Nut_Mounting_Positive.stl" download>STL Link 1 Folder</a>
