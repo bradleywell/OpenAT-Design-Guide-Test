@@ -3,14 +3,6 @@ title: T-Nut/Tee Nut
 layout: default
 nav_order: 3
 parent: Commercial Components
-feature_row3:
-    title: "Download test link"
-    excerpt: 'test test test, test test test'
-    url: "https://github.com/makersmakingchange/OpenAT_Design_Resources_Test/tree/main/CAD_Files/T_Nut/T_Nut_Mounting_Positive.stl"
-    target: "_blank"
-    rel: "noopener noreferrer"
-    btn_label: "Download STL"
-    btn_class: "btn--primary"
 ---
 
 # T-Nut/Tee Nut
