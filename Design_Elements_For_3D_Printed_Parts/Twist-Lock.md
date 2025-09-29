@@ -11,7 +11,8 @@ A twist lock allows a piece, such as a button topper, to be pressed into place t
 
 There are two components to the twist lock, the tab and the slot. The tab is the section that protrudes from the component that locks in place, and the slot is the section in the main part that the tab rides in. There are typically two to four tabs on a part.
 
-image placeholder
+<img src="Photos/Twist_Lock/Twist_Lock_IMG1.png" width="300" style="display: block; margin: 0 auto" alt="A close up of the slot in the rocker switch. ">
+<img src="Photos/Twist_Lock/Twist_Lock_IMG2.png" width="300" style="display: block; margin: 0 auto" alt="A close up of the tab in the rocker switch. ">
 
 The dimensions and key considerations for tabs and slots
 
