@@ -25,5 +25,5 @@ When deciding which thread size to use, it is important to consider the minimum 
 
 Finally, to make it easier to begin threading 3D printed parts together, the beginning parts of the male and female threads can be manually chamfered to make starting the threads easier. Because of the threads spiraling, the chamfer tool cannot be used for this. Instead, create a triangle in the shape of the desired chamfer at the midplane of the thread, and revolve it around the center axis to cut the chamfer. When doing this to the male section of the threads, the threads can be trimmed off the first several millimeters of the thread to create a dog point to make inserting the screw easier.
 
-<img src="Photos/Threads/Threads_IMG4.png" width="250" style="display: compact; margin: 0 auto" alt="Adding a chamfer to a female thread. ">
-<img src="Photos/Threads/Threads_IMG5.png" width="250" style="display: compact; margin: 0 auto" alt="Adding a dog point to male thread. ">
+<img src="Photos/Threads/Threads_IMG4.png" width="250"  alt="Adding a chamfer to a female thread. ">
+<img src="Photos/Threads/Threads_IMG5.png" width="250"  alt="Adding a dog point to male thread. ">
