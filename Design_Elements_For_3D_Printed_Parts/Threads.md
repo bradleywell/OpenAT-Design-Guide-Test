@@ -11,7 +11,7 @@ When designing parts, 3D printed threads can be used to fasten together parts wi
 
 The first consideration is print orientation. Due to overhang limitations, threads can either be printed on their side, or vertically. Attempting to print a thread on an angle will not work. Printing a thread on its side creates a stronger thread, as the layer lines will not be under tension as in a vertical orientation. However, one side needs to be trimmed to create a print surface, and it is difficult to do when the thread is on anything other than a bolt. Vertical printing is commonly used when on an enclosure or other part, such as in the LipSync. The layer orientation is less of an issue in larger diameter threads when the surface area in each layer is larger.
 
-<img src="Photos/Threads/Threads_IMG1.png" width="300" style="display: block; margin: 0 auto" alt="A cross sectional view of the LipSync joystick, showing the internal threads used. ">
+<img src="Photos/Threads/Threads_IMG1.png" width="600" style="display: block; margin: 0 auto" alt="A cross sectional view of the LipSync joystick, showing the internal threads used. ">
 
 When printing on their side, trim one side of the thread to provide a surface for the print. Trimming a quarter of the diameter off one side generally provides a good-sized build surface without degrading the quality of the bolt.
 
@@ -25,5 +25,5 @@ When deciding which thread size to use, it is important to consider the minimum 
 
 Finally, to make it easier to begin threading 3D printed parts together, the beginning parts of the male and female threads can be manually chamfered to make starting the threads easier. Because of the threads spiraling, the chamfer tool cannot be used for this. Instead, create a triangle in the shape of the desired chamfer at the midplane of the thread, and revolve it around the center axis to cut the chamfer. When doing this to the male section of the threads, the threads can be trimmed off the first several millimeters of the thread to create a dog point to make inserting the screw easier.
 
-<img src="Photos/Threads/Threads_IMG4.png" width="300" style="display: block; margin: 0 auto" alt="Adding a chamfer to a female thread. ">
-<img src="Photos/Threads/Threads_IMG5.png" width="300" style="display: block; margin: 0 auto" alt="Adding a dog point to male thread. ">
+<img src="Photos/Threads/Threads_IMG4.png" width="250" style="display: compact; margin: 0 auto" alt="Adding a chamfer to a female thread. ">
+<img src="Photos/Threads/Threads_IMG5.png" width="250" style="display: compact; margin: 0 auto" alt="Adding a dog point to male thread. ">
