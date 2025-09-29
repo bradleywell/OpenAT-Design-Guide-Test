@@ -19,11 +19,10 @@ When printing on their side, trim one side of the thread to provide a surface fo
 
 When modeling threads for printing, it is important to add a clearance between the male and female threads to allow for the tolerances of the 3D printer and ensure an easy fit between threads. After modeling both the male and female threads with the same thread size, select the faces of the female thread with the offset tool, and offset them inwards by 0.1 mm.
 
-<img src="Photos/Threads/Threads_IMG3.png" width="300" style="display: block; margin: 0 auto" alt="A cross section of a female thread in CAD being offset by 0.1 mm. ">
+<img src="Photos/Threads/Threads_IMG3.png" width="500" style="display: block; margin: 0 auto" alt="A cross section of a female thread in CAD being offset by 0.1 mm. ">
 
 When deciding which thread size to use, it is important to consider the minimum possible thread size that a 3D printer can make. Anything smaller than an M5 thread is difficult to print, and will likely fit poorly, if it fits at all.
 
 Finally, to make it easier to begin threading 3D printed parts together, the beginning parts of the male and female threads can be manually chamfered to make starting the threads easier. Because of the threads spiraling, the chamfer tool cannot be used for this. Instead, create a triangle in the shape of the desired chamfer at the midplane of the thread, and revolve it around the center axis to cut the chamfer. When doing this to the male section of the threads, the threads can be trimmed off the first several millimeters of the thread to create a dog point to make inserting the screw easier.
 
-<img src="Photos/Threads/Threads_IMG4.png" width="250"  alt="Adding a chamfer to a female thread. ">
-<img src="Photos/Threads/Threads_IMG5.png" width="250"  alt="Adding a dog point to male thread. ">
+<img src="Photos/Threads/Threads_IMG4.png" height="250"  alt="Adding a chamfer to a female thread. "> <img src="Photos/Threads/Threads_IMG5.png" height="250"  alt="Adding a dog point to male thread. ">
