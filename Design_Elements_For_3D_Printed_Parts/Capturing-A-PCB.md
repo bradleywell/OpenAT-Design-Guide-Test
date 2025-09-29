@@ -11,7 +11,8 @@ When attaching a PCB to a 3D printed enclosure, there are two general methods th
 
 ## Screws
 
-image placeholder
+<img src="Photos/Captured_PCB/Captured_PCB_IMG1.png" width="300" style="display: block; margin: 0 auto" alt="A cross section of the lipsync hub showing the PCB screwed into place. ">
+<img src="Photos/Captured_PCB/Captured_PCB_IMG2.png" width="300" style="display: block; margin: 0 auto" alt="A cross section of the LipSync hub with a post supporting the arms of the PCB. ">
 
 When attaching a PCB using screws, one or more screws are used to attach the PCB to the enclosure. The design specifics for the screws can be found in the #4 Sheet Metal Screw entry in the commercial parts section, while the design specifics for the screw posts can be found in the Screw Posts entry in the 3D printed parts section.
 
@@ -21,7 +22,8 @@ When determining the number and location of the screws, consider the forces that
 
 A snap fit is a method of attaching a circuit board, usually a smaller board like a microcontroller or sensor, without requiring additional hardware. With a snap fit, there are two or more posts with hook-like protrusions at the top, which deflect as the board is pressed into place, and then snap back to their original position once the board has been fully inserted, preventing the board from coming back out. Snap fits can also be used to attach two halves of an enclosure together. The [Ivy Joystick](https://github.com/makersmakingchange/Ivy-Nunchuck-Joystick-Adapter) makes use of snap fits for both retaining PCBs and attaching the enclosure.
 
-image placeholder
+<img src="Photos/Captured_PCB/Captured_PCB_IMG3.png" width="300" style="display: block; margin: 0 auto" alt="A cross section of the Ivy joystick. ">
+<img src="Photos/Captured_PCB/Captured_PCB_IMG4.png" width="300" style="display: block; margin: 0 auto" alt="A photo of the ambient pressure sensor in the LipSync. ">
 
 The snap fit posts stop the board from pulling up and from moving side to side, but additional retaining posts will be needed to keep it from moving side to side in the direction that the posts are not in. The board will also generally be above the enclosure and will need posts or ribs to rest on.
 
@@ -31,4 +33,4 @@ The primary consideration for a snap fit is the length of the deflecting arm, an
 - **Arm Length:** The length of the snap fit arm. Varies depending from 6 mm to 13 mm, depending on the desired positioning of the PCB.
 - **Arm Angle:** The angle of the surface that the PCB or other piece pushes against while it is being inserted in the snap fit. 70 degrees is a good minimum angle for this, although others have been used.
 
-image placeholder
+<img src="Photos/Captured_PCB/Captured_PCB_IMG5.png" width="300" style="display: block; margin: 0 auto" alt="A sketch of a snap fit arm with the key dimensions labeled. ">

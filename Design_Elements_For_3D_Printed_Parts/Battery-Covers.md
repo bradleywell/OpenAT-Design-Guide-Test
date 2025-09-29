@@ -9,7 +9,7 @@ parent: Design Elements for 3D Printed Parts
 
 When using a 9V battery, it is important to have the battery accessible to the user, but still protected, secure, and out of the way. In the Open Playback recorder, this is done with a battery cover similar to what you would find in a television remote.
 
-image placeholder
+<img src="Photos/Battery_Cover/Battery_Cover_IMG1.png" width="300" style="display: block; margin: 0 auto" alt="A battery cover holding a 9V battery. "><img src="Photos/Battery_Cover/Battery_Cover_IMG2.png" width="300" style="display: block; margin: 0 auto" alt="The battery cover with a 9V battery installed into the open playback recorder. ">
 
 The battery is inserted into the battery cover and held in place by friction and later by the fit between the battery terminal connector and the wall of the enclosure. The battery is passed through the hole in the enclosure, then the tab is inserted into the matching groove in the enclosure. Finally, the battery cover is pivoted closed around the tab, and a single screw is used to fasten it in place.
 
