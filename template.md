@@ -30,8 +30,8 @@ For this part, there are several primary dimensions, as well as some design cons
 ## Design Considerations
 
 When designing parts that use this component, you need to keep in mind the following design considerations
-* **[Consideration 1]:** Something that is not a dimension, but still affects the design. Something like using an octagon for a horizontal hole to prvent sagging.
-* **[Consideration 2]:** Something that is not a dimension, but still affects the design. Something like using an octagon for a horizontal hole to prvent sagging.
+* **[Consideration 1]:** Something that is not a dimension, but still affects the design. Something like using an octagon for a horizontal hole to prevent sagging.
+* **[Consideration 2]:** Something that is not a dimension, but still affects the design. Something like using an octagon for a horizontal hole to prevent sagging.
 
 
 ## Purchasing
