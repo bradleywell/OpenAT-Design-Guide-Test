@@ -5,10 +5,9 @@ nav_order: 3
 parent: How To Contribute
 ---
 
-# #4 [Part Name]
+# [Part Name]
 
-Used to hold 3D printed parts together, usually the two halves of the enclosure or other structural connections. The screw most used in MMC devices is a 3/8” #4 Sheet Metal Screw
-[Test Link to Other page in the repo](https://bradleywell.github.io/OpenAT-Design-Guide-Test/Cable-Ties.html)
+Brief introduction to part and what devices it is used in
 
 [image of part here]
 
